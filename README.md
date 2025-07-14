@@ -1,2 +1,2 @@
-# SamTech-upgrade
-SAM TECH maintenance page
+# SamTech-Official
+SAM TECH Main Page
